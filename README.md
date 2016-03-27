@@ -1,7 +1,7 @@
 # A-Frame WebVR Tutorials
 
 <ol>
-  <li>Course Introduction</li>
-  
   <li>Setting Up</li>
+  
+  <li>Drawing A Box</li>
 </ol>
