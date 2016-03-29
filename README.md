@@ -48,4 +48,12 @@
       <li>Live preview - www.googledrive.com/host/0B58LaQNFXH6NVXNjaVVHb0RISHM</li>
     </ul>
   </li>
+  
+  <li>
+    Lighting
+    
+    <ul>
+      <li>Live preview - www.googledrive.com/host/0B58LaQNFXH6NOTgyZnd4SUZ1d3c</li>
+    </ul>
+  </li>
 </ol>
