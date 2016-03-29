@@ -64,4 +64,12 @@
       <li>Live preview - www.googledrive.com/host/0B58LaQNFXH6NMFNqeVFrbGRvNUk</li>
     </ul>
   </li>
+  
+  <li>
+    Model Loading
+    
+    <ul>
+      <li>Live preview - www.googledrive.com/host/0B58LaQNFXH6NcDRsSklHTkNKY0k</li>
+    </ul>
+  </li>
 </ol>
