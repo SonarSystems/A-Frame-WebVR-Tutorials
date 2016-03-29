@@ -74,6 +74,14 @@
   </li>
   
   <li>
+    Image
+    
+    <ul>
+      <li>Live preview - www.googledrive.com/host/0B58LaQNFXH6NNkx6WkczSFBNVVE</li>
+    </ul>
+  </li>
+  
+  <li>
     Curved Image
     
     <ul>
