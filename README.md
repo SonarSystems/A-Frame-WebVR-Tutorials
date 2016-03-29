@@ -32,4 +32,12 @@
       <li>Live preview - www.googledrive.com/host/0B58LaQNFXH6NVlVIT2FDc3hSQk0</li>
     </ul>
   </li>
+  
+  <li>
+    Animations
+    
+    <ul>
+      <li>Live preview - www.googledrive.com/host/0B58LaQNFXH6NYUJPMjBibGdEWGM</li>
+    </ul>
+  </li>
 </ol>
