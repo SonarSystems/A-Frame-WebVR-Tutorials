@@ -96,4 +96,36 @@
       <li>Live preview - www.googledrive.com/host/0B58LaQNFXH6NNHBTV2lFSGppWjg</li>
     </ul>
   </li>
+  
+  <li>
+    Curved Video
+    
+    <ul>
+      <li>Live preview - coming soon</li>
+    </ul>
+  </li>
+  
+  <li>
+    Video Sphere
+    
+    <ul>
+      <li>Live preview - coming soon</li>
+    </ul>
+  </li>
+  
+  <li>
+    Plane
+    
+    <ul>
+      <li>Live preview - coming soon</li>
+    </ul>
+  </li>
+  
+  <li>
+    Object Loading
+    
+    <ul>
+      <li>Live preview - coming soon</li>
+    </ul>
+  </li>
 </ol>
