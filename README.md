@@ -98,18 +98,10 @@
   </li>
   
   <li>
-    Curved Video
-    
-    <ul>
-      <li>Live preview - coming soon</li>
-    </ul>
-  </li>
-  
-  <li>
     Video Sphere
     
     <ul>
-      <li>Live preview - coming soon</li>
+      <li>Live preview - www.googledrive.com/host/0B58LaQNFXH6NbzZ2VFNfWTlJS1k</li>
     </ul>
   </li>
   
