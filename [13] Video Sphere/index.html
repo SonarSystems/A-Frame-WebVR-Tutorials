@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        
+        <script src="https://aframe.io/releases/0.2.0/aframe.js"></script>
+    </head>
+    
+    <body>
+        <a-scene>
+            <a-assets>
+                <video id="SphereVideo" autoplay loop="true" src="video/SphereVideo.webm" webkit-playsinline>
+            </a-assets>
+
+            <!-- Using the asset management system. -->
+            <a-videosphere src="#SphereVideo"></a-videosphere>
+
+            <!-- Defining the URL inline. Not recommended but more comfortable for web developers. -->
+            <!--<a-videosphere src="video/SphereVideo.webm"></a-videosphere>-->
+        </a-scene>
+    </body>
+</html>
