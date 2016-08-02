@@ -109,7 +109,7 @@
     Plane
     
     <ul>
-      <li>Live preview - coming soon</li>
+      <li>Live preview - www.googledrive.com/host/0B58LaQNFXH6NVElzY2VtZHJWcmc</li>
     </ul>
   </li>
   
@@ -117,7 +117,7 @@
     Object Loading
     
     <ul>
-      <li>Live preview - coming soon</li>
+      <li>Live preview - www.googledrive.com/host/0B58LaQNFXH6NdGJFQm5Ic3Brdm8</li>
     </ul>
   </li>
 </ol>
