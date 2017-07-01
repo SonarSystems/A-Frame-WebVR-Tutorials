@@ -2,11 +2,7 @@
 ### Live Previews
 <ol>
   <li>
-    [Setting Up](/[1] Setting Up)
-
-    <ul>
-      <li>/'[1] Setting Up'</li>
-    </ul>
+    [Setting Up](A-Frame-WebVR-Tutorials/blob/gh-pages/%5B1%5D%20Setting%20Up/)
   </li>
 
   <li>
