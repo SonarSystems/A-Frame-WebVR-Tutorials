@@ -2,7 +2,7 @@
 ### Live Previews
 <ol>
   <li>
-    [Setting Up](/'[1] Setting Up')
+    [Setting Up](/[1] Setting Up)
 
     <ul>
       <li>/'[1] Setting Up'</li>
