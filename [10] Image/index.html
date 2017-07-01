@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://aframe.io/releases/0.2.0/aframe.js"></script>
+    </head>
+    
+    <body>
+        <a-scene>
+            <a-assets>
+                <img id="my-image" src="img/BatmanvSuperman.jpg">
+            </a-assets>
+
+            <!-- Using the asset management system. -->
+            <a-image src="#my-image" width="16" height="9"></a-image>
+
+            <!-- Defining the URL inline. Not recommended but more comfortable for web developers. -->
+            <!--<a-image src="img/BatmanvSuperman.jpg" width="16" height="9"></a-image>-->
+        </a-scene>
+    </body>
+</html>

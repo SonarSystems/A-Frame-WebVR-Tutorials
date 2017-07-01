@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        
+        <script src="https://aframe.io/releases/0.2.0/aframe.js"></script>
+    </head>
+    
+    <body>
+        <a-scene>
+            <a-assets>
+                <video id="video" autoplay loop="true" src="video/Video.mp4" webkit-playsinline>
+            </a-assets>
+
+            <!-- Using the asset management system. -->
+            <a-video src="#video" width="16" height="9" position="0 1 -1"></a-video>
+
+            <!-- Defining the URL inline. Not recommended but more comfortable for web developers. -->
+            <!--<a-video src="video/Video.mp4" width="16" height="9" position="0 1 -1"></a-video>-->
+        </a-scene>
+    </body>
+</html>
