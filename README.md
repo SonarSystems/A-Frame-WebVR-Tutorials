@@ -1,115 +1,17 @@
 # A-Frame WebVR Tutorials
 ### Live Previews
-[Setting Up](https://bunnybooboo.github.io/A-Frame-WebVR-Tutorials/[8]%20Skybox/)
-
-  <li>
-    Drawing A Box
-
-    <ul>
-      <li>/www.googledrive.com/host/0B58LaQNFXH6NQ0Y1NS1jYWZ3dkU</li>
-    </ul>
-  </li>
-
-  <li>
-    Transformations
-
-    <ul>
-      <li>www.googledrive.com/host/0B58LaQNFXH6NNFJ1emhqNGYtaUE</li>
-    </ul>
-  </li>
-
-  <li>
-    Textures
-
-    <ul>
-      <li>www.googledrive.com/host/0B58LaQNFXH6NVlVIT2FDc3hSQk0</li>
-    </ul>
-  </li>
-
-  <li>
-    Animations
-
-    <ul>
-      <li>www.googledrive.com/host/0B58LaQNFXH6NYUJPMjBibGdEWGM</li>
-    </ul>
-  </li>
-
-  <li>
-    Interacting With Objects
-
-    <ul>
-      <li>www.googledrive.com/host/0B58LaQNFXH6NVXNjaVVHb0RISHM</li>
-    </ul>
-  </li>
-
-  <li>
-    Lighting
-
-    <ul>
-      <li>www.googledrive.com/host/0B58LaQNFXH6NOTgyZnd4SUZ1d3c</li>
-    </ul>
-  </li>
-
-  <li>
-    Skybox
-
-    <ul>
-      <li>www.googledrive.com/host/0B58LaQNFXH6NMFNqeVFrbGRvNUk</li>
-    </ul>
-  </li>
-
-  <li>
-    Model Loading
-
-    <ul>
-      <li>www.googledrive.com/host/0B58LaQNFXH6NcDRsSklHTkNKY0k</li>
-    </ul>
-  </li>
-
-  <li>
-    Image
-
-    <ul>
-      <li>www.googledrive.com/host/0B58LaQNFXH6NNkx6WkczSFBNVVE</li>
-    </ul>
-  </li>
-
-  <li>
-    Curved Image
-
-    <ul>
-      <li>www.googledrive.com/host/0B58LaQNFXH6NYWtFQnk5MG1BSVE</li>
-    </ul>
-  </li>
-
-  <li>
-    Video
-
-    <ul>
-      <li>www.googledrive.com/host/0B58LaQNFXH6NNHBTV2lFSGppWjg</li>
-    </ul>
-  </li>
-
-  <li>
-    Video Sphere
-
-    <ul>
-      <li>www.googledrive.com/host/0B58LaQNFXH6NbzZ2VFNfWTlJS1k</li>
-    </ul>
-  </li>
-
-  <li>
-    Plane
-
-    <ul>
-      <li>www.googledrive.com/host/0B58LaQNFXH6NVElzY2VtZHJWcmc</li>
-    </ul>
-  </li>
-
-  <li>
-    Object Loading
-
-    <ul>
-      <li>www.googledrive.com/host/0B58LaQNFXH6NdGJFQm5Ic3Brdm8</li>
-    </ul>
-  </li>
+-   Tutorial 1 - [Setting Up](https://bunnybooboo.github.io/A-Frame-WebVR-Tutorials/[1]%20Setting%20Up/)
+-   Tutorial 2 - [Drawing A Box](https://bunnybooboo.github.io/A-Frame-WebVR-Tutorials/[2]%20Drawing%20A%20Box/)
+-   Tutorial 3 - [Transformations](https://bunnybooboo.github.io/A-Frame-WebVR-Tutorials/[3]%20Transformations/)
+-   Tutorial 4 - [Textures](https://bunnybooboo.github.io/A-Frame-WebVR-Tutorials/[4]%20Textures/)
+-   Tutorial 5 - [Animations](https://bunnybooboo.github.io/A-Frame-WebVR-Tutorials/[5]%20Animations/)
+-   Tutorial 6 - [Interacting With Objects](https://bunnybooboo.github.io/A-Frame-WebVR-Tutorials/[6]%20Interacting%20With%20Objects/)
+-   Tutorial 7 - [Lighting](https://bunnybooboo.github.io/A-Frame-WebVR-Tutorials/[7]%20Lighting/)
+-   Tutorial 8 - [Skybox](https://bunnybooboo.github.io/A-Frame-WebVR-Tutorials/[8]%20Skybox/)
+-   Tutorial 9 - [Model Loading](https://bunnybooboo.github.io/A-Frame-WebVR-Tutorials/[9]%20Model%20Loading/)
+-   Tutorial 10 - [Image](https://bunnybooboo.github.io/A-Frame-WebVR-Tutorials/[10]%20Image/)
+-   Tutorial 11 - [Curved Image](https://bunnybooboo.github.io/A-Frame-WebVR-Tutorials/[11]%20Curved%20Image/)
+-   Tutorial 12 - [Video](https://bunnybooboo.github.io/A-Frame-WebVR-Tutorials/[12]%20Video/)
+-   Tutorial 13 - [Video Sphere](https://bunnybooboo.github.io/A-Frame-WebVR-Tutorials/[13]%20Video%20Sphere/)
+-   Tutorial 14 - [Plane](https://bunnybooboo.github.io/A-Frame-WebVR-Tutorials/[14]%20Plane/)
+-   Tutorial 15 - [Object Loading](https://bunnybooboo.github.io/A-Frame-WebVR-Tutorials/[15]%20Object%20Loading/)
