@@ -1,6 +1,6 @@
 # A-Frame WebVR Tutorials
 ### Live Previews
-    [Setting Up](https://bunnybooboo.github.io/A-Frame-WebVR-Tutorials/%5B1%5D%20Setting%20Up/)
+    [Setting Up](https://bunnybooboo.github.io/A-Frame-WebVR-Tutorials/[8]%20Skybox/)
 
   <li>
     Drawing A Box
