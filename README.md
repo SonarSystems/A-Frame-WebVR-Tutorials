@@ -1,6 +1,5 @@
 # A-Frame WebVR Tutorials
 ### Live Previews
-<ol>
     [Setting Up](https://bunnybooboo.github.io/A-Frame-WebVR-Tutorials/%5B1%5D%20Setting%20Up/)
 
   <li>
@@ -114,4 +113,3 @@
       <li>www.googledrive.com/host/0B58LaQNFXH6NdGJFQm5Ic3Brdm8</li>
     </ul>
   </li>
-</ol>
